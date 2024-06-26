@@ -1,0 +1,9 @@
+﻿  Leitor.cpp
+C:\dev\vcpkg\installed\x64-windows\include\poppler\cpp\poppler-page.h(134,36): warning C4251: 'poppler::text_box::m_data': class 'std::unique_ptr<poppler::text_box_data,std::default_delete<poppler::text_box_data>>' needs to have dll-interface to be used by clients of class 'poppler::text_box'
+  (compiling source file 'Leitor.cpp')
+  C:\dev\vcpkg\installed\x64-windows\include\poppler\cpp\poppler-page.h(134,10):
+  see declaration of 'std::unique_ptr<poppler::text_box_data,std::default_delete<poppler::text_box_data>>'
+  
+  BuscaFinal.vcxproj -> C:\Users\ryanp\source\repos\BuscaFinal\x64\Debug\BuscaFinal.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
